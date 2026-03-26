@@ -35,12 +35,8 @@ analyze slip images using AI features requested by you;
 manage subscriptions and premium access;
 send reminders and feature-related notifications (if enabled);
 maintain app performance, security, and reliability.
-3. AI Processing
-When you use AI slip analysis features, images and related prompt data may be processed by third-party AI services (via Firebase AI / Google AI) to generate results.
-We use this data only to provide requested analysis features and do not use it to make legal, medical, or financial guarantees.
 
-4. Third-Party Services
-SLIP SCAN AI may use the following third-party platforms/services:
+
 
 Firebase (Google) – app infrastructure and authentication
 Google Sign-In
