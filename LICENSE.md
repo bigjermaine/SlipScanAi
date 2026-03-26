@@ -47,34 +47,34 @@ Apple StoreKit / App Store In-App Purchases
 Apple Push Notification Service (APNs)
 Each third party may process data according to its own privacy policy and terms.
 
-5. Data Sharing
+3. Data Sharing
 We do not sell your personal information.
 We may share limited information with service providers only as needed to operate the app (for example, authentication, cloud storage, AI processing, or subscription verification).
 
-6. Data Retention
+4. Data Retention
 We keep data only as long as needed to provide the app and comply with legal obligations.
 Retention periods may vary depending on the feature and storage provider (for example, Apple iCloud/CloudKit or Firebase services).
 
-7. Your Choices
+5. Your Choices
 You can:
 
 sign out of your account at any time;
 disable notifications in iOS Settings;
 manage subscriptions through your Apple ID subscription settings;
 request deletion of account-related data by contacting us (subject to technical/legal limits).
-8. Children’s Privacy
+6. Children’s Privacy
 SLIP SCAN AI is not intended for children under 13 (or under the minimum age required in your jurisdiction). We do not knowingly collect personal data from children.
 
-9. Security
+7. Security
 We use reasonable administrative and technical safeguards designed to protect your data. No method of transmission or storage is 100% secure.
 
-10. International Users
+8. International Users
 Your information may be processed in countries other than your own, depending on the infrastructure of our service providers.
 
-11. Changes to This Policy
+9. Changes to This Policy
 We may update this Privacy Policy from time to time. We will post the updated version in-app or on our website and revise the effective date.
 
-12. Contact Us
+10. Contact Us
 If you have questions or requests about this Privacy Policy, contact us at:
 
 Email: danieljermaine97@gmail.com
